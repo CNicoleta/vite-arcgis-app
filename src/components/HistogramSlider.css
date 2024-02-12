@@ -1,0 +1,6 @@
+.esri-histogram-range-slider
+  .esri-slider
+  .esri-slider__anchor
+  .esri-slider__label {
+  display: inline;
+}
